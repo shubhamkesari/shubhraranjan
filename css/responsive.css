@@ -1,0 +1,254 @@
+@media (min-width: 992px) and (max-width: 1200px) {
+  .best_plan_wrapper {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+  .best_plan_wrapper li.best_plan_col {
+    width: 33.33%;
+    margin-bottom: 30px;
+  }
+  .plans_container .plans_wrapper .plans_card {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  .plans_container .plans_wrapper .plans_card .choose_plan_text {
+    margin: 5px auto;
+  }
+  .plans_container .plans_wrapper .plans_card .plan_price_info h3 {
+    font-size: 22px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .pl_4,
+  .px_4 {
+    padding-left: 2rem !important;
+  }
+  .pr_4,
+  .px_4 {
+    padding-right: 2rem !important;
+  }
+  .best_plan_wrapper {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+  .best_plan_wrapper li.best_plan_col {
+    width: 50%;
+    margin-bottom: 30px;
+  }
+  .best_plan_wrapper li.best_plan_col .best_plan_card.most_popular {
+    margin-top: 0;
+  }
+  .navbar.navbar_style .btn-login {
+    padding: 5px 15px;
+  }
+  .navbar.navbar_style .navbar-brand {
+    font-size: 24px;
+    margin-right: 0.6rem;
+  }
+  .navbar.navbar_style .nav-item .nav-link {
+    padding: 22px 8px;
+    font-size: 15px;
+  }
+  .banner_section .banner_heading {
+    font-size: 24px;
+    line-height: 42px;
+    padding-right: 0;
+  }
+  .banner_section .banner_topper {
+    margin-bottom: 0;
+  }
+  .banner_section .banner_topper ul li .hover_card {
+    width: 200px;
+    height: 200px;
+  }
+  .banner_section .banner_topper ul li .hover_card img {
+    max-height: 60px;
+    margin-bottom: 15px;
+  }
+  .banner_section .banner_topper ul li .hover_card h5 {
+    font-size: 18px;
+  }
+  .banner_section .banner_topper ul li .hover_card h4 {
+    font-size: 20px;
+  }
+  .banner_section .banner_topper ul li:nth-child(8n-2) .hover_card, .banner_section .banner_topper ul li:nth-child(8n-3) .hover_card {
+    left: unset;
+    right: 0;
+  }
+  .latest_course .latest_course_card h2 {
+    width: 100%;
+    font-size: 36px;
+  }
+  .latest_course .latest_course_card ul {
+    width: 100%;
+  }
+  .latest_course.pt_6 {
+    padding-top: 3rem !important;
+  }
+  .our_centers_card {
+    margin-bottom: 30px;
+  }
+  .h2_heading {
+    font-size: 32px;
+    line-height: 46px;
+    padding-bottom: 20px;
+  }
+  .counts_section .count-div .text-div .title {
+    font-size: 13px;
+  }
+  .counts_section .count-div .text-div .count-text {
+    font-size: 15px;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+  .navbar.navbar_style .navbar-collapse {
+    padding-bottom: 30px;
+  }
+  .navbar.navbar_style .navbar-brand {
+    padding: 15px 0;
+    font-size: 20px;
+  }
+  .banner_section .banner_heading {
+    font-size: 24px;
+    padding-right: 1.5rem;
+  }
+  .banner_section .banner_topper ul li .hover_card {
+    width: 180px;
+    height: 180px;
+  }
+  .banner_section .banner_topper ul li .hover_card img {
+    max-height: 60px;
+    margin-bottom: 15px;
+  }
+  .banner_section .banner_topper ul li .hover_card h5 {
+    font-size: 16px;
+  }
+  .banner_section .banner_topper ul li .hover_card h4 {
+    font-size: 18px;
+  }
+  .banner_section .banner_topper ul li:nth-child(8n-2) .hover_card, .banner_section .banner_topper ul li:nth-child(8n-3) .hover_card {
+    left: unset;
+    right: 0;
+  }
+  .course_offered .nav-tabs .nav-link {
+    padding: 10px 0;
+  }
+  .latest_course {
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .latest_course.pt_6 {
+    padding-top: 3rem !important;
+  }
+  .latest_course .latest_course_card h2 {
+    width: 100%;
+    font-size: 24px;
+  }
+  .latest_course .latest_course_card ul {
+    width: 100%;
+  }
+  .owl-dots {
+    margin-top: 2.5rem;
+  }
+  .btn_enquiry {
+    padding: 13px 20px;
+  }
+  .our_centers_card {
+    margin-bottom: 2rem;
+  }
+  .counts_section .counts-col:last-child .count-div {
+    margin-bottom: 0;
+  }
+  .counts_section .count-div {
+    margin-bottom: 2rem;
+  }
+  footer .copyright_col {
+    padding: 20px 15px;
+  }
+  .best_plan_wrapper {
+    padding: 30px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .best_plan_wrapper li.best_plan_col {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  .best_plan_wrapper li.best_plan_col .best_plan_card.most_popular {
+    margin-top: 0;
+  }
+  .course_header {
+    background-size: cover;
+  }
+  .course_header .course_header_content .row {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .course_header .course_info_card {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    text-align: center;
+    width: 80%;
+  }
+  .course_header .course_info_card li {
+    border-right: 0;
+    border-bottom: 4px solid #F6F7F9;
+  }
+  .course_header .course_info_card li:last-child {
+    border-bottom: 0;
+  }
+  .course_description .faculties_details_wrapper {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .course_description .faculties_details_wrapper .faculties_details {
+    margin-top: 30px;
+  }
+  .course_description .faculties_details_wrapper ul li {
+    width: 100%;
+  }
+  .plans_container .plans_card .plan_info .choose_plan_text {
+    font-size: 12px;
+    padding: 3px 8px;
+  }
+  .plans_container .plans_card .plan_info h6 {
+    margin-bottom: 0.6rem !important;
+    font-size: 14px;
+  }
+  .plans_container .plans_card .plan_price_info h3 {
+    font-size: 20px;
+    text-align: right;
+  }
+  .plans_container .plans_card .plan_price_info a {
+    font-size: 12px !important;
+  }
+  .pl_4,
+  .px_4 {
+    padding-left: 1.5rem !important;
+  }
+  .pr_4,
+  .px_4 {
+    padding-right: 1.5rem !important;
+  }
+}
+
+@media (min-width: 768px) {
+  .navbar-nav li:hover .dropdown-menu {
+    display: block;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */
